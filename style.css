@@ -1,0 +1,22 @@
+body
+	{
+		background-color:black;	
+		font-family: 'Satisfy';
+	}
+
+
+	
+
+h1
+	{
+		background-color: white;
+		font-face: Calibri light;
+		font-size: 30;
+		text align: center;
+		color: black;
+		border: solid;
+		border-colour: white; 
+		border-radius: 100px;
+	}
+
+
